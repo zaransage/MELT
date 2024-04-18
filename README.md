@@ -30,6 +30,9 @@ These are handled through a light version of dependency injection at the 'Main' 
 ## Example:
 In progress.
 
+## Visuals:
+
+
 
 ## Notes and Discussion:
   1. 
